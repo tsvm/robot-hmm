@@ -19,9 +19,9 @@ The project contains the following files:
 
 
 
-In order to start the simulation, execute the file play.py:
+In order to start the simulation, execute the file `play.py`:
 
-''' python play.py '''
+``` python play.py ```
 
 
 
