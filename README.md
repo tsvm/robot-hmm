@@ -12,7 +12,7 @@ The project contains the following files:
 
 * robot.py - contains implementation of the possible moves of the robot in the grid.
 
-* grid,py - contains functions for checking allowed states in the grid.
+* grid.py - contains functions for checking allowed states in the grid.
 
 * play.py - prepares and simulates the robot movement. This is the starting point of the project. It contains implementation of the grphical project interface and the code for simulation of the robot movement and displaying of the possible positions.
 
